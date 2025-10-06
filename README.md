@@ -18,7 +18,7 @@ npm run dev
 Oi! 👋 Atuo com desenvolvimento web fullstack e posso ser sua desenvolvedora, para tirar seus design do papel ou fazer um sistema completo.  
 
 Se tiver interesse, é só me chamar:  
-📩 **geovana.matias1@gmail.com**
+📩 **almeidaalexandre1233@gmail.com**
 
 ## Sobre o Template Vite
 
